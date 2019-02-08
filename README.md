@@ -11,3 +11,4 @@ My IDEA Settings
     Settings → Editor → Code Style → JavaScript → Wrapping and Braces → Keep when reformating → Simple methods in one line ✅
     Settings → Editor → Code Style → JavaScript → Wrapping and Braces → Comments → Wrap at right margin ✅
     Settings → Editor → Code Style → HTML → Other → Do not indent children of → [html,thead,tbody,tfoot]
+    Settings → Editor → Code Style → HTML → Other → In empty tag ✅
